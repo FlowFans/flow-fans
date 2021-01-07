@@ -1,0 +1,101 @@
+.tagContent {
+  width: 1042px;
+}
+
+.cardItem:hover .cardItem_title {
+  color: #ff7828;
+}
+
+.cardItem_title {
+  display: -webkit-box;
+  /*! autoprefixer: off */
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  line-height: 30px;
+  color: #333;
+}
+
+
+.item_desc {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #999;
+  word-break: break-all;
+}
+
+.footer {
+  background-image: url('./assets/footer_bg.jpg');
+  background-position: center center;
+  background-size: cover;
+}
+
+.footer_title {
+  color: #000;
+  font-size: 30px;
+  font-weight: 500;
+  
+}
+
+.submitBtn {
+  width: 160px;
+  height: 40px;
+  border-radius: 35px!important;
+  color: #fff !important;
+  background-color: #000 !important;
+}
+
+.toggleBtnWrap {
+  height: 100%;
+}
+
+.toggleBtn > svg {
+  color: #cfcfcf;
+}
+
+.toggleBtn:hover {
+  background-color: #ff7828;
+}
+.toggleBtn:hover > svg {
+  color: #fff;
+}
+
+@media screen and (min-width: 600px) {
+  .skeletonHotCard, .hotCard {
+    height: 92px;
+  }
+  .hotCard > img {
+    height: 92px;
+    width: 195px;
+  }
+  .hotCard:hover {
+    box-shadow: 0px 8px 32px 0px #CDD3DF;
+  }
+  .cardItem:hover {
+    background-color: #f8f8f8;
+  }
+  .toggleBtn {
+    width: 48px;
+    height: 48px;
+    cursor: pointer;
+    background-color: #f8f8f8
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .skeletonHotCard, .hotCard {
+    height: 78px;
+  }
+  .hotCard > img {
+    height: 78px;
+    width: 165.31px;
+  }
+  .toggleBtn {
+    width: 100%;
+    height: 48px;
+    cursor: pointer;
+    background-color: #f8f8f8
+  }
+}

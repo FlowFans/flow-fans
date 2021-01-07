@@ -1,0 +1,35 @@
+[
+   {
+      "key":"Flow",
+      "name":"Flow 官网",
+      "name_en":"omflow.org",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://zh.onflow.org/",
+      "url_en":"https://www.onflow.org/",
+      "tag":"热门推荐",
+      "tag_en":"Hot"
+   },
+   {
+      "key":"etherscan",
+      "name":"Etherscan",
+      "name_en":"",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://cn.etherscan.com/",
+      "url_en":"https://etherscan.io/",
+      "tag":"热门推荐",
+      "tag_en":"Hot"
+   },
+   {
+      "key":"Forum",
+      "name":"Flow 官方论坛",
+      "name_en":"Flow Forum",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://forum.onflow.org/",
+      "url_en":"https://forum.onflow.org/",
+      "tag":"社区",
+      "tag_en":"Community"
+   }
+]
