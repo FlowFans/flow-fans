@@ -36,7 +36,7 @@ class Footer extends PureComponent {
             className="submitBtn"
             style={{ textTransform: 'none' }}
             onClick={() => {
-              window.open('https://github.com/SparkPoolOfficial/eth123.org/issues');
+              window.open('https://github.com/FlowFans/FlowFans.org/issues');
             }}
           >
             {t('submit')}
