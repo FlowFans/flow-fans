@@ -3,7 +3,7 @@
 }
 
 .cardItem:hover .cardItem_title {
-  color: #ff7828;
+  color: #16ff99;
 }
 
 .cardItem_title {
@@ -56,7 +56,7 @@
 }
 
 .toggleBtn:hover {
-  background-color: #ff7828;
+  background-color: #16ff99;
 }
 .toggleBtn:hover > svg {
   color: #fff;

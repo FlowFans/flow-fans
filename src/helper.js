@@ -1,4 +1,4 @@
-import images from './images';
+import images from './assets';
 
 export const getSkeletonList = (length = 8) => {
   let list = [];
