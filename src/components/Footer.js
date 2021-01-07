@@ -3,7 +3,6 @@ import {
   // Box,
   Typography,
   Button,
-  Link,
 } from '@material-ui/core';
 import classnames from 'classnames';
 
@@ -43,18 +42,6 @@ class Footer extends PureComponent {
             {t('submit')}
           </Button>
         </Box>
-        {/* <Box
-          display="flex"
-          flexDirection="row"
-          justifyContent="center"
-          className={BoxStyle.footer_sponsored}>
-          <div>Sponsored By&nbsp;</div>
-          <div style={{ color: "#ff7828" }}>
-            <Link href="" underline="none">
-              
-            </Link>
-          </div>
-        </Box> */}
       </>
     )
 
