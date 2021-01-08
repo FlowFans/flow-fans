@@ -1,7 +1,7 @@
 import Flow from './flow.svg';
 import Forum from './Forum.png';
 import FlowScan from './flowscan.svg'
-import Blocto from './blocto.png'
+import Blocto from './Blocto.png'
 
 
 const maps = {
