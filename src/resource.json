@@ -64,5 +64,16 @@
       "url_en":"https://blocto.portto.io/",
       "tag":"钱包",
       "tag_en":"Wallet"
+   },
+   {
+      "key":"Bigdipper",
+      "name":"Bigdipper",
+      "name_en":"Blocto",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://flow.bigdipper.live/",
+      "url_en":"https://flow.bigdipper.live/",
+      "tag":"浏览器",
+      "tag_en":"Explorer"
    }
 ]
