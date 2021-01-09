@@ -50,6 +50,9 @@ const NavItem = ({
     if (url.slice('-1') === '/') {
       url = url.slice(0, url.length - 1);
     }
+    if(url.length > 25) {
+      url = url.substr(0,20) + '...'
+    }
     return url;
 
   }

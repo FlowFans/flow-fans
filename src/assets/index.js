@@ -3,6 +3,7 @@ import Forum from './Forum.png';
 import FlowScan from './flowscan.svg'
 import Blocto from './Blocto.png'
 import Bigdipper from './Bigdipper.png'
+import Bisontrails from './Bisontrails.svg'
 
 
 const maps = {
@@ -10,7 +11,8 @@ const maps = {
   Forum,
   FlowScan,
   Blocto,
-  Bigdipper
+  Bigdipper,
+  Bisontrails
 }
 
 export default maps

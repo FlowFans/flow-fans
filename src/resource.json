@@ -54,6 +54,95 @@
       "tag":"资讯",
       "tag_en":"Information"
    },
+
+   {
+      "key":"Github",
+      "name":"Flow Github",
+      "name_en":"Flow Github",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://github.com/onflow",
+      "url_en":"https://github.com/onflow",
+      "tag":"开发资源",
+      "tag_en":"Documentation"
+   },
+   {
+      "key":"Twitter",
+      "name":"flow_blockchain",
+      "name_en":"flow_blockchain",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://twitter.com/flow_blockchain",
+      "url_en":"https://twitter.com/flow_blockchain",
+      "tag":"社交媒体",
+      "tag_en":"Social media"
+   },
+   {
+      "key":"Yotube",
+      "name":"FLow Channel",
+      "name_en":"FLow Channel",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://www.youtube.com/channel/UCs9r5lqmYQsKCpLB9jKwocg",
+      "url_en":"https://www.youtube.com/channel/UCs9r5lqmYQsKCpLB9jKwocg",
+      "tag":"社交媒体",
+      "tag_en":"Social media"
+   },
+   {
+      "key":"Kraken",
+      "name":"Kraken",
+      "name_en":"Kraken",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://www.kraken.com/",
+      "url_en":"https://www.kraken.com/",
+      "tag":"交易",
+      "tag_en":"Exchange"
+   },
+   {
+      "key":"Coinlist",
+      "name":"Coinlist",
+      "name_en":"Coinlist",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://coinlist.co/flow/",
+      "url_en":"https://coinlist.co/flow/",
+      "tag":"交易",
+      "tag_en":"Exchange"
+   },
+   {
+      "key":"Bisontrails",
+      "name":"Bisontrails",
+      "name_en":"Bisontrails",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://bisontrails.co/flow/",
+      "url_en":"https://bisontrails.co/flow/",
+      "tag":"基础设施",
+      "tag_en":"Infrastructure"
+   },
+   {
+      "key":"Decentology",
+      "name":"Decentology",
+      "name_en":"Decentology",
+      "desc":"DApp开发脚手架",
+      "desc_en":"DApp Scaffolding",
+      "url":"https://dappstarter.decentology.com/",
+      "url_en":"https://dappstarter.decentology.com/",
+      "tag":"开发资源",
+      "tag_en":"Developer Resources"
+   },
+   {
+      "key":"Bigdipper",
+      "name":"Bigdipper",
+      "name_en":"Bigdipper",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://flow.bigdipper.live/",
+      "url_en":"https://flow.bigdipper.live/",
+      "tag":"浏览器",
+      "tag_en":"Explorer"
+   },
    {
       "key":"Blocto",
       "name":"Blocto",
@@ -64,16 +153,5 @@
       "url_en":"https://blocto.portto.io/",
       "tag":"钱包",
       "tag_en":"Wallet"
-   },
-   {
-      "key":"Bigdipper",
-      "name":"Bigdipper",
-      "name_en":"Blocto",
-      "desc":"",
-      "desc_en":"",
-      "url":"https://flow.bigdipper.live/",
-      "url_en":"https://flow.bigdipper.live/",
-      "tag":"浏览器",
-      "tag_en":"Explorer"
    }
 ]

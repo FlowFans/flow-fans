@@ -28,19 +28,15 @@
       "tag_en":"Developer Resources"
    },
    {
+      "tag":"交易",
+      "tag_en":"Exchange"
+   },
+   {
       "tag":"基础设施",
       "tag_en":"Infrastructure"
    },
    {
-      "tag":"博客",
-      "tag_en":"Blog"
-   },
-   {
       "tag":"社交媒体",
       "tag_en":"Social media"
-   },
-   {
-      "tag":"其它",
-      "tag_en":"Others"
    }
 ]
