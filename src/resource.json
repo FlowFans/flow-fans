@@ -153,5 +153,16 @@
       "url_en":"https://blocto.portto.io/",
       "tag":"钱包",
       "tag_en":"Wallet"
+   },
+   {
+      "key":"NBA",
+      "name":"NBATOPSHOT",
+      "name_en":"NBATOPSHOT",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://www.nbatopshot.com/",
+      "url_en":"https://www.nbatopshot.com/",
+      "tag":"热门推荐",
+      "tag_en":"Hot"
    }
 ]
