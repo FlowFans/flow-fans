@@ -164,5 +164,16 @@
       "url_en":"https://www.nbatopshot.com/",
       "tag":"热门推荐",
       "tag_en":"Hot"
+   },
+   {
+      "key":"VIV3",
+      "name":"VIV3",
+      "name_en":"VIV3",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://viv3.com/",
+      "url_en":"https://viv3.com/",
+      "tag":"热门推荐",
+      "tag_en":"Hot"
    }
 ]

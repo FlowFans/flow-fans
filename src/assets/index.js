@@ -5,6 +5,7 @@ import Blocto from './Blocto.png'
 import Bigdipper from './Bigdipper.png'
 import Bisontrails from './Bisontrails.svg'
 import NBA from './NBA.svg'
+import VIV3 from './viv3.png'
 
 
 const maps = {
@@ -14,7 +15,8 @@ const maps = {
   Blocto,
   Bigdipper,
   Bisontrails,
-  NBA
+  NBA,
+  VIV3
 }
 
 export default maps
