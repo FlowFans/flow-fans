@@ -175,5 +175,50 @@
       "url_en":"https://viv3.com/",
       "tag":"热门推荐",
       "tag_en":"Hot"
+   },
+   {
+      "key":"Monster",
+      "name":"ChainMonsters",
+      "name_en":"ChainMonsters",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://playchainmonsters.com/",
+      "url_en":"https://playchainmonsters.com/",
+      "tag":"游戏",
+      "tag_en":"Games"
+   },
+   {
+      "key":"Versus",
+      "name":"Versus",
+      "name_en":"Versus",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://versus-flow.art/",
+      "url_en":"https://versus-flow.art/",
+      "tag":"NFT",
+      "tag_en":"NFT"
+   },
+   {
+      "key":"Docs",
+      "name":"Flow 文档站",
+      "name_en":"Flow docs",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://docs.flowfans.org/",
+      "url_en":"https://docs.flowfans.org/",
+      "tag":"文档",
+      "tag_en":"Documentation"
+   },
+   {
+      "key":"DarkC",
+      "name":"Dark Country",
+      "name_en":"Dark Country",
+      "desc":"",
+      "desc_en":"",
+      "url":"https://darkcountry.io/",
+      "url_en":"https://darkcountry.io/",
+      "tag":"游戏",
+      "tag_en":"Games"
    }
 ]
+
